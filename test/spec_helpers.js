@@ -1,4 +1,4 @@
 //inject these into the global scope
 assert =  require('assert')
 should =  require('should')
-async =  require("../qed.js")
+async =  require("../flow.js")
